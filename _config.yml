@@ -1,0 +1,28 @@
+name: Michael Daniels Collection
+favicon: null
+layout_spectrum: 0.2522791454102844
+typography_spectrum: 0.9650655896402895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5637111233081669
+  lightness: 0.8586627175100148
+  saturation: 0.41183349140919745
+  rhythmicContrast: 0.41637131781317294
+purpose: []
